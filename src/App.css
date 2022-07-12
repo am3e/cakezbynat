@@ -123,3 +123,21 @@ h5 {
 .menu-item {
   display: flex;
 }
+
+.summary {
+  border: 1px solid blue;
+  padding: 2em;
+  margin: 1em 5em;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+.formButton {
+  background-color: pink;
+  padding: 1em 3em;
+  border-radius: .75em;
+  border: none;
+  text-transform: uppercase;
+}

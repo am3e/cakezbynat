@@ -8,24 +8,24 @@ const cake = [
         ['8 inch, two layer cake',30]
       ],
       'Cake Batter Flavour': [
-        'Chocolate', 
-        'Vanilla', 
-        'Birthday Cake', 
-        'Red Velvet', 
-        'Ube', 
-        'Mocha', 
-        'Strawberry Shortcake', 
-        'Fruit cake'
+        ['Chocolate', 0],
+        ['Vanilla', 0],
+        ['Birthday Cake', 0],
+        ['Red Velvet', 0],
+        ['Ube', 0],
+        ['Mocha', 0],
+        ['Strawberry Shortcake', 0],
+        ['Fruit cake', 0]
       ],
       'Buttercream Icing Flavour': [
-        'Chocolate', 
-        'Vanilla', 
-        'Peanut Butter', 
-        'Cream Cheese', 
-        'Oreo', 
-        'Chocolate Hazelnut (Nutella)', 
-        'Ube', 
-        'Mocha'
+        ['Chocolate', 0],
+        ['Vanilla', 0],
+        ['Peanut Butter', 0],
+        ['Cream Cheese', 0],
+        ['Oreo', 0],
+        ['Chocolate Hazelnut (Nutella)', 0],
+        ['Ube', 0],
+        ['Mocha', 0]
       ],
       'Add ons': [
         ['Cheesecake layer', 5],
@@ -47,24 +47,24 @@ const cake = [
         ['8 inch, two layer cake',30]
       ],
       'Cake Batter Flavour': [
-        'Chocolate', 
-        'Vanilla', 
-        'Birthday Cake', 
-        'Red Velvet', 
-        'Ube', 
-        'Mocha', 
-        'Strawberry Shortcake', 
-        'Fruit cake'
+        ['Chocolate', 0], 
+        ['Vanilla', 0], 
+        ['Birthday Cake', 0], 
+        ['Red Velvet', 0], 
+        ['Ube', 0], 
+        ['Mocha', 0], 
+        ['Strawberry Shortcake', 0], 
+        ['Fruit cake', 0]
       ],
       'Buttercream Icing Flavour': [
-        'Chocolate', 
-        'Vanilla', 
-        'Peanut Butter', 
-        'Cream Cheese', 
-        'Oreo', 
-        'Chocolate Hazelnut (Nutella)', 
-        'Ube', 
-        'Mocha'
+        ['Chocolate', 0], 
+        ['Vanilla', 0], 
+        ['Peanut Butter', 0], 
+        ['Cream Cheese', 0], 
+        ['Oreo', 0], 
+        ['Chocolate Hazelnut (Nutella)', 0], 
+        ['Ube', 0], 
+        ['Mocha', 0]
       ],
       'Add ons': [
         ['Cheesecake layer', 5],
